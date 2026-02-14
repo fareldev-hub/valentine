@@ -16,7 +16,7 @@ Situs web sederhana namun manis yang dirancang untuk mengungkapkan perasaan atau
 
 Kamu bisa melihat cuplikan proyek ini di sini:
 
-> [Tambahkan link demo jika ada, misal: GitHub Pages atau Vercel link]
+> [https://fareldev-hub.github.io/valentine]
 
 ## 🛠️ Teknologi yang Digunakan
 
